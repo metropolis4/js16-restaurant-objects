@@ -87,7 +87,7 @@ Customer.prototype.toString = function () {
 
 
 
-var burritoPlate = new Fooditem ('Burrito Plate', 2000, false, false, true);
+var Barriter = new Fooditem ('Burrito Plate', 2000, false, false, true);
 var guacamolePlate = new Fooditem ('Guacamole Plate', 1000, true, true, false);
 var margaritaDrink = new Fooditem ('Margarita Drink', 300, true, true, false);
 
